@@ -1,5 +1,5 @@
 #pragma once
-#include "include/raylib.h"
+#include "raylib.h"
 
 #define BLOCK_SIZE 30
 #define ROWS 20
